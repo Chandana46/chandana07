@@ -1,8 +1,11 @@
 # Hi I,m Chandana L
-I’m a final year Computer Science student at Alliance University, Banglore.
-Passionate about Artificial Intelligence and Software Development.
-Interested in building real-world projects and improving problem-solving skills.
-Eager to grow, explore, and contribute to innovative technology.
+I am a B.Tech graduate in Computer Science from Alliance University, Bangalore. 
+Passionate about Artificial Intelligence, Data Analytics, and Software Development. 
+Interested in building real-world solutions and applying technology to solve complex problems. 
+Eager to learn, grow, and contribute to innovative and impactful projects.
 
-
-
+#Skills
+-Excel
+-SQL
+-Java
+-Python
